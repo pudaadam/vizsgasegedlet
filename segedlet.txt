@@ -1,0 +1,9 @@
+Adat bázisnál mikor össze kötünk két táblat a kapcsolat közte: CASCADE
+
+Scaffold db: Scaffold-DbContext "server=localhost;database=****;user=root;password=;sslmode=none;" mysql.entityframeworkcore -outputdir Models –f
+
+React parancsok:  npx create-react-app .
+                  npm install --save bootstrap
+                  npm i --save react-router-dom
+                  npm install axios
+                  npm start
